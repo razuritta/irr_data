@@ -1,0 +1,7 @@
+policy-options {
+replace:
+ prefix-list as139888_ip4 {
+    45.157.88.0/24;
+    103.215.215.0/24;
+ }
+}

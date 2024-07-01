@@ -1,0 +1,7 @@
+policy-options {
+replace:
+ prefix-list as139888_ip6 {
+    2406:840:fc80::/44;
+    2601:1d08:4000::/44;
+ }
+}

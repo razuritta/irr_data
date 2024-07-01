@@ -1,0 +1,6 @@
+policy-options {
+replace:
+ prefix-list as142551_ip6 {
+    2a13:a5c7:1200::/40;
+ }
+}
