@@ -1,0 +1,6 @@
+policy-options {
+replace:
+ prefix-list as140731_ip4 {
+    174.136.237.0/24;
+ }
+}
